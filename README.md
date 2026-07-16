@@ -66,7 +66,7 @@ Ninguna de esas tres se predice desde un escritorio. Se descubren ejecutando.
 
 **La de Windows no pasó por eso.** Está escrita para *descubrir* los pasos contigo, no para dictártelos. Es más lenta a propósito.
 
-**Si la ejecutas en un Windows real, manda un PR.** Ese es el trabajo que le falta a este repo.
+**Si la ejecutas en un Windows real, cuéntamelo.** Ese es el trabajo que le falta a este repo. Todo se hace desde el navegador — ver [Cómo contribuir](#cómo-contribuir-todo-desde-el-navegador).
 
 ---
 
