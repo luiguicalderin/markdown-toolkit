@@ -109,6 +109,40 @@ Las plantillas no son guías. Son **conversaciones estructuradas** para que el a
 
 ---
 
+## Cómo contribuir (todo desde el navegador)
+
+Este repo está escrito para gente que no usa la terminal. Sería incoherente pedir contribuciones que la requieran.
+
+**Todo se hace desde el navegador.**
+
+### Si encuentras un error o quieres mejorar algo
+
+1. Abre el archivo aquí en GitHub
+2. Clic en el **lápiz ✏️** (arriba a la derecha del archivo)
+3. Edita
+4. Abajo, escribe qué cambiaste
+5. Marca **"Create a new branch for this commit and start a pull request"**
+6. **Propose changes**
+
+Eso es un *pull request*: una propuesta de cambio. No modifica nada hasta que alguien la revise. **No puedes romper nada.**
+
+### Si prefieres solo avisar
+
+Ve a la pestaña **Issues** → **New issue**. Cuentas qué falló y ya. Igual de útil.
+
+### Lo que más falta ahora mismo
+
+**Validar la plantilla de Windows.** Si la ejecutas en un Windows real:
+
+- Los pasos que sí funcionaron
+- Los que fallaron y cómo los resolviste
+- Lo que la plantilla asumía mal
+- Los detalles que ninguna guía teórica menciona
+
+Con eso, la de Windows deja de ser teoría.
+
+---
+
 ## Las 7 reglas (aplican a cualquier tarea técnica con IA)
 
 1. **La densidad va al frente.** Prompt inicial largo, después mensajes de dos líneas.
