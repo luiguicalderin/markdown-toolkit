@@ -2,7 +2,7 @@
 
 Convertir PDF, Word, Excel y PowerPoint a Markdown (`.md`) desde tu propio equipo, sin subir archivos a ninguna web.
 
-Pensado para gente que **no sabe usar la terminal** y no quiere aprender.
+Pensado para gente que **no sabe usar la terminal**.
 
 ---
 
