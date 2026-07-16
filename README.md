@@ -113,8 +113,6 @@ Las plantillas no son guías. Son **conversaciones estructuradas** para que el a
 
 Este repo está escrito para gente que no usa la terminal. Sería incoherente pedir contribuciones que la requieran.
 
-**Todo se hace desde el navegador.**
-
 ### Si encuentras un error o quieres mejorar algo
 
 1. Abre el archivo aquí en GitHub
@@ -124,7 +122,7 @@ Este repo está escrito para gente que no usa la terminal. Sería incoherente pe
 5. Marca **"Create a new branch for this commit and start a pull request"**
 6. **Propose changes**
 
-Eso es un *pull request*: una propuesta de cambio. No modifica nada hasta que alguien la revise. **No puedes romper nada.**
+El PR no modifica nada hasta que alguien lo revise. **No puedes romper nada.**
 
 ### Si prefieres solo avisar
 
