@@ -6,6 +6,8 @@ Pensado para gente que **no sabe usar la terminal** y no quiere aprender.
 
 ---
 
+> **Nota:** este repo fue elaborado en su mayoría con IA, a partir de prueba y error manual. Cada paso se ejecutó en un equipo real, y lo que aquí está documentado es lo que efectivamente funcionó.
+
 ## Por qué existe esto
 
 Trabajo con documentos de clientes: briefs, contratos, research. Necesitaba convertirlos a Markdown para reducir tokens antes de pasarlos a un LLM.
