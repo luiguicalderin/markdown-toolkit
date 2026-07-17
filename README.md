@@ -50,7 +50,7 @@ Estructura > tamaño. Ese es el punto entero de convertir a Markdown.
 |---|---|---|
 | [`plantilla-mac.md`](plantilla-mac.md) | Plantilla de prompts para instalar y automatizar en Mac | ✅ **Probada** |
 | [`plantilla-windows.md`](plantilla-windows.md) | Plantilla de prompts para Windows | ⚠️ **Sin validar** |
-| [`desinstalar-mac.md`](desinstalar-mac.md) | Cómo borrar todo sin dejar rastro | ✅ Probada |
+| [`desinstalar-mac.md`](desinstalar-mac.md) | Cómo borrar todo sin dejar rastro | ⚠️ **Sin validar** |
 
 ---
 
@@ -65,6 +65,8 @@ La de Mac se escribió **ejecutándola paso a paso en un Mac real**. Ahí aparec
 - El atajo de clic derecho falla si no usas rutas absolutas, porque Automator no hereda la configuración de la terminal
 
 Ninguna de esas tres se predice desde un escritorio. Se descubren ejecutando.
+
+**La guía de desinstalación tampoco está validada.** Se documentó el método, pero nunca se ejecutó — el equipo donde se hizo esto sigue teniendo todo instalado. Contiene comandos `rm -rf`, que borran sin papelera. Revísalos antes de correrlos.
 
 **La de Windows no pasó por eso.** Está escrita para *descubrir* los pasos contigo, no para dictártelos. Es más lenta a propósito.
 
@@ -157,4 +159,4 @@ Con eso, la de Windows deja de ser teoría.
 
 ## Licencia
 
-MIT. Úsalo, cámbialo, compártelo.
+MIT. Úsalo, cámbialo, compártelo. Probado en un solo equipo.
