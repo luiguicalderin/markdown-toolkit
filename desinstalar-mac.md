@@ -1,7 +1,14 @@
-# Desinstalar todo sin dejar rastro
+# Desinstalar todo
 
 Guía para revertir por completo la instalación de MarkItDown, Docling, pipx y Homebrew en tu Mac.
 
+---
+
+## ⚠️ Esta guía no está validada
+
+A diferencia de la de instalación, **estos pasos nunca se ejecutaron.** Se documentó el método, pero el equipo donde se hizo todo esto sigue teniendo las herramientas instaladas.
+
+Contiene comandos `rm -rf`, que borran sin preguntar y sin papelera. **Léelos antes de correrlos y hazlo bajo tu criterio.**
 ---
 
 ## ⚠️ Lee esto primero
